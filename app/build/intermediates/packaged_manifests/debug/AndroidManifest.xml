@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.samsung.android.trackingsampleapp"
+    android:versionCode="1100"
+    android:versionName="1.1.00" >
+
+    <uses-sdk
+        android:minSdkVersion="30"
+        android:targetSdkVersion="30" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <uses-permission android:name="android.permission.BODY_SENSORS" />
+    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+
+    <queries>
+        <package android:name="com.google.android.wearable.healthservices" />
+        <package android:name="com.sec.android.app.samsungapps" />
+    </queries>
+
+    <permission
+        android:name="com.samsung.android.trackingsampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.samsung.android.trackingsampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@android:style/Theme.DeviceDefault" >
+
+        <!--
+               Set to true if your app is Standalone, that is, it does not require the handheld
+               app to run.
+        -->
+        <meta-data
+            android:name="com.google.android.wearable.standalone"
+            android:value="true" />
+
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.PpgIrActivity"
+            android:label="@string/title_activity_ppg_ir" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.HeartRateActivity"
+            android:label="@string/title_activity_heart_rate" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.EcgActivity"
+            android:label="@string/title_activity_ecg" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.PpgGreenActivity"
+            android:label="@string/title_activity_ppg_green" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.choiceActivity"
+            android:label="@string/title_activity_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.PpgRedActivity"
+            android:label="@string/title_activity_ppg_red" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.PermissionActivity"
+            android:exported="false"
+            android:launchMode="singleTop" />
+
+        <uses-library
+            android:name="com.google.android.wearable"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.samsung.android.trackingsampleapp.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+    </application>
+
+</manifest>

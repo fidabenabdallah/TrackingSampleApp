@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_ppg_green.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_ppg_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_ecg.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_ecg.xml"
+    },
+    {
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-38:/layout/activity_choix.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-41:/layout/activity_choix.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_ppg_red.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_ppg_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_heart_rate.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_heart_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-mergeDebugResources-38:\\layout\\activity_ppg_ir.xml",
+        "source": "C:\\Users\\hp\\.gradle\\daemon\\7.5\\com.samsung.android.trackingsampleapp-main-41:\\layout\\activity_ppg_ir.xml"
+    }
+]
