@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559729193223",
+    "project_id": "notiffromwatch",
+    "storage_bucket": "notiffromwatch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559729193223:android:0cfd65eae25817ba0c95a2",
+        "android_client_info": {
+          "package_name": "com.example.notif_from_watch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559729193223-4i7kstv0afd83qopg0qmkbi11djvhf30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhUoz-fXmEUa_tfXL2XOYdmwNUP9THpvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559729193223-4i7kstv0afd83qopg0qmkbi11djvhf30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

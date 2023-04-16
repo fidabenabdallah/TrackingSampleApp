@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-37:/values-ru/values-ru.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-ru/values-ru.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\4623d1bb6410e26ddf4d612f9758a80f\\transformed\\material-1.4.0\\res\\values-ru\\values-ru.xml",
@@ -127,7 +127,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\6cbcf096295fc12e4247166e0351636b\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-ru\\values.xml",
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\0bc9b5081fbdafbc743c60d9be612fe2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ru\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

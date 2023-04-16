@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-37:/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\99a67f1e4d1c9d82af179429b07dacb5\\transformed\\wear-1.2.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
@@ -76,6 +76,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\0bc9b5081fbdafbc743c60d9be612fe2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "199",
+                        "endColumns": "156",
+                        "endOffsets": "355"
+                    },
+                    "to": {
+                        "startLines": "94",
+                        "startColumns": "4",
+                        "startOffsets": "7889",
+                        "endColumns": "160",
+                        "endOffsets": "8045"
+                    }
+                },
+                {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\828b23f5cf784fd9245164e3883b33ef\\transformed\\core-1.9.0\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
@@ -90,23 +107,6 @@
                         "startOffsets": "14468",
                         "endColumns": "100",
                         "endOffsets": "14564"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\6cbcf096295fc12e4247166e0351636b\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-fr-rCA\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "199",
-                        "endColumns": "156",
-                        "endOffsets": "355"
-                    },
-                    "to": {
-                        "startLines": "94",
-                        "startColumns": "4",
-                        "startOffsets": "7889",
-                        "endColumns": "160",
-                        "endOffsets": "8045"
                     }
                 },
                 {

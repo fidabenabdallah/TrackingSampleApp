@@ -2687,6 +2687,9 @@ id listMode
 id list_item
 id liveData_header
 id loginButton
+id mMessage
+id mSend
+id mTitle
 id masked
 id match_constraint
 id match_parent
@@ -3112,6 +3115,7 @@ layout activity_home
 layout activity_home_page
 layout activity_login
 layout activity_main
+layout activity_main2
 layout activity_ppg_green
 layout activity_ppg_ir
 layout activity_ppg_red
@@ -3270,6 +3274,7 @@ plurals time_difference_short_minutes
 plurals time_difference_words_days
 plurals time_difference_words_hours
 plurals time_difference_words_minutes
+raw firebase_common_keep
 string ECG
 string Spo2_hr
 string a11y_no_data
@@ -3394,6 +3399,7 @@ string expand_button_title
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string fcm_fallback_notification_channel_label
 string flush
 string generic_cancel
 string generic_yes

@@ -9,6 +9,7 @@
         android:targetSdkVersion="30" />
 
     <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-feature android:name="android.hardware.type.watch" />
 
@@ -19,6 +20,12 @@
         <package android:name="com.google.android.wearable.healthservices" />
         <package android:name="com.sec.android.app.samsungapps" />
     </queries>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
 
     <permission
         android:name="com.samsung.android.trackingsampleapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -35,7 +42,10 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault" >
-
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.MainActivity2"
+            android:exported="false"
+            android:theme="@android:style/Theme.DeviceDefault.NoActionBar" />
         <!--
                Set to true if your app is Standalone, that is, it does not require the handheld
                app to run.
@@ -57,11 +67,23 @@
             android:name="com.samsung.android.trackingsampleapp.PpgGreenActivity"
             android:label="@string/title_activity_ppg_green" />
         <activity
+            android:name="com.samsung.android.trackingsampleapp.login_activity"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.Register_activity"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.sendmsg_activity"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name="com.samsung.android.trackingsampleapp.HomePage_activity"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
             android:name="com.samsung.android.trackingsampleapp.SettingsActivity"
             android:label="@string/title_activity_settings" />
         <activity
-            android:name="com.samsung.android.trackingsampleapp.choiceActivity"
-            android:label="@string/title_activity_main" >
+            android:name="com.samsung.android.trackingsampleapp.MainActivity"
+            android:label="trackingsampleapp" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -69,12 +91,61 @@
             </intent-filter>
         </activity>
         <activity
+            android:name="com.samsung.android.trackingsampleapp.choiceActivity"
+            android:label="choiceActivity" />
+        <activity
             android:name="com.samsung.android.trackingsampleapp.PpgRedActivity"
             android:label="@string/title_activity_ppg_red" />
         <activity
             android:name="com.samsung.android.trackingsampleapp.PermissionActivity"
             android:exported="false"
             android:launchMode="singleTop" />
+
+        <service
+            android:name="com.samsung.android.trackingsampleapp.PushNotificationService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </receiver>
+        <!--
+             FirebaseMessagingService performs security checks at runtime,
+             but set to not exported to explicitly avoid allowing another app to call it.
+        -->
+        <service
+            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.google.firebase.components.ComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
 
         <uses-library
             android:name="com.google.android.wearable"
@@ -84,6 +155,29 @@
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="com.samsung.android.trackingsampleapp.firebaseinitprovider"
+            android:directBootAware="true"
+            android:exported="false"
+            android:initOrder="100" />
 
         <meta-data
             android:name="com.google.android.gms.version"
@@ -100,6 +194,23 @@
                 android:name="androidx.lifecycle.ProcessLifecycleInitializer"
                 android:value="androidx.startup" />
         </provider>
+
+        <service
+            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+            android:exported="false" >
+            <meta-data
+                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+                android:value="cct" />
+        </service>
+        <service
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" >
+        </service>
+
+        <receiver
+            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+            android:exported="false" />
     </application>
 
 </manifest>

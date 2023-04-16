@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-37:/values-bg/values-bg.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-bg/values-bg.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\99a67f1e4d1c9d82af179429b07dacb5\\transformed\\wear-1.2.0\\res\\values-bg\\values-bg.xml",
@@ -38,23 +38,6 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\6cbcf096295fc12e4247166e0351636b\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-bg\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "133",
-                        "endOffsets": "328"
-                    },
-                    "to": {
-                        "startLines": "94",
-                        "startColumns": "4",
-                        "startOffsets": "7732",
-                        "endColumns": "137",
-                        "endOffsets": "7865"
-                    }
-                },
-                {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\4623d1bb6410e26ddf4d612f9758a80f\\transformed\\material-1.4.0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
@@ -71,6 +54,23 @@
                         "endLines": "5,54,83,84,85,110,112,115,116,117,118,119,120,121,122,123,124,125,126,127,128,129,130,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,164",
                         "endColumns": "12,82,94,132,88,65,96,79,61,88,64,58,72,62,53,127,56,61,53,72,142,83,87,105,87,87,84,66,65,74,75,85,76,75,76,73,90,74,90,91,73,86,90,54,65,82,85,61,63,62,116,112,110,116,85",
                         "endOffsets": "310,4388,6455,6588,6677,9641,9826,9998,10060,10149,10214,10273,10346,10409,10463,10591,10648,10710,10764,10837,10980,11064,11152,11258,11346,11434,11519,11586,11652,11727,11803,11889,11966,12042,12119,12193,12284,12359,12450,12542,12616,12703,12794,12849,12915,12998,13084,13146,13210,13273,13390,13503,13614,13731,13980"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\0bc9b5081fbdafbc743c60d9be612fe2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "133",
+                        "endOffsets": "328"
+                    },
+                    "to": {
+                        "startLines": "94",
+                        "startColumns": "4",
+                        "startOffsets": "7732",
+                        "endColumns": "137",
+                        "endOffsets": "7865"
                     }
                 },
                 {

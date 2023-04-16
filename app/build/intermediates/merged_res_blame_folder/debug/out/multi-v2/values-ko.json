@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-37:/values-ko/values-ko.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-ko/values-ko.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\0bc9b5081fbdafbc743c60d9be612fe2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-ko\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "116",
+                        "endOffsets": "311"
+                    },
+                    "to": {
+                        "startLines": "94",
+                        "startColumns": "4",
+                        "startOffsets": "7028",
+                        "endColumns": "120",
+                        "endOffsets": "7144"
+                    }
+                },
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\8012bd3cc18fef1a3f649f14e594cb1e\\transformed\\jetified-wearable-2.9.0\\res\\values-ko\\values.xml",
                     "from": {
@@ -71,23 +88,6 @@
                         "startOffsets": "1492,1589,1683,1784,1866,1964,2070,2150,2225,2316,2409,2504,2598,2698,2791,2886,2980,3071,3162,3242,3340,3434,3529,3629,3726,3826,3978,12588",
                         "endColumns": "96,93,100,81,97,105,79,74,90,92,94,93,99,92,94,93,90,90,79,97,93,94,99,96,99,151,93,78",
                         "endOffsets": "1584,1678,1779,1861,1959,2065,2145,2220,2311,2404,2499,2593,2693,2786,2881,2975,3066,3157,3237,3335,3429,3524,3624,3721,3821,3973,4067,12662"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\6cbcf096295fc12e4247166e0351636b\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-ko\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "116",
-                        "endOffsets": "311"
-                    },
-                    "to": {
-                        "startLines": "94",
-                        "startColumns": "4",
-                        "startOffsets": "7028",
-                        "endColumns": "120",
-                        "endOffsets": "7144"
                     }
                 },
                 {

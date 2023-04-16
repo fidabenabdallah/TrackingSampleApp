@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-37:/values-bs/values-bs.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-bs/values-bs.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\828b23f5cf784fd9245164e3883b33ef\\transformed\\core-1.9.0\\res\\values-bs\\values-bs.xml",
@@ -35,6 +35,23 @@
                         "startOffsets": "6084,6221,10153,10315,10641,10810,10897",
                         "endColumns": "70,86,81,137,168,86,82",
                         "endOffsets": "6150,6303,10230,10448,10805,10892,10975"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\0bc9b5081fbdafbc743c60d9be612fe2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-bs\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "136",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "46",
+                        "startColumns": "4",
+                        "startOffsets": "4434",
+                        "endColumns": "140",
+                        "endOffsets": "4570"
                     }
                 },
                 {
@@ -86,23 +103,6 @@
                         "startOffsets": "5635,5747,5870,5983,10980,11092",
                         "endColumns": "111,122,112,100,111,118",
                         "endOffsets": "5742,5865,5978,6079,11087,11206"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\6cbcf096295fc12e4247166e0351636b\\transformed\\jetified-play-services-basement-18.0.0\\res\\values-bs\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "136",
-                        "endOffsets": "331"
-                    },
-                    "to": {
-                        "startLines": "46",
-                        "startColumns": "4",
-                        "startOffsets": "4434",
-                        "endColumns": "140",
-                        "endOffsets": "4570"
                     }
                 },
                 {

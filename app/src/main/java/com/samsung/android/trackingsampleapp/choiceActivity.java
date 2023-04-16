@@ -35,7 +35,7 @@ public class choiceActivity extends FragmentActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.activity_main);
+		setContentView(R.layout.activity_choix);
 		Log.i(TAG, "onCreate");
 		String[] values = new String[]{"HeartRate", "PPG Green", "PPG Red", "ECG", "settings"};
 		ListView mListView = findViewById(R.id.sensors_list_view);
