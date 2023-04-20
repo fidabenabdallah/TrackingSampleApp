@@ -3,6 +3,8 @@ package com.samsung.android.trackingsampleapp;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
+import android.content.SharedPreferences;
 import android.media.session.MediaSession;
 import android.os.Bundle;
 import android.util.Log;
@@ -21,6 +23,10 @@ public class MainActivity2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
+
+        SharedPreferences sharedpreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
+        String username = sharedpreferences.getString("username","").toString();
+        Toast.makeText(getApplicationContext(),"Welcome " + username, Toast.LENGTH_SHORT ).show();
         mTitle = findViewById(R.id.mTitle);
         mMessage = findViewById(R.id.mMessage);
 
@@ -60,6 +66,9 @@ public class MainActivity2 extends AppCompatActivity {
         //device 1 : e0_pI5l4QY-uyG5vnRyMvn:APA91bE3WcET4Tx02IedgLtSPYoh5AxJxVHImIJGBBJ3C3YnAiLJurcVTCiBoBEd6ueCeh3HXomoIVOtR5lftyIpZX6OVDVjS3lOi8l0LSRK6BhWqbOMAZ5nQPgxt9wRzEeZq1YGeslO
 
         //device 2 : dhOhK7fhQIGKEvkIrnvF68:APA91bHuGixnIvALiAz4xm4v89bwdD6JEvh1Ilp5rxn2yF-ez0jbVxdNMYjelnindtTOENcBD0EGQmrGkkjCsjOTntnyNY6Ui6DnXenx2bG3tsEu4SqFemEmo4hk7vF0BQfcqBxTaE_q
+
+
+        //smartwatch : dhOhK7fhQIGKEvkIrnvF68:APA91bHuGixnIvALiAz4xm4v89bwdD6JEvh1Ilp5rxn2yF-ez0jbVxdNMYjelnindtTOENcBD0EGQmrGkkjCsjOTntnyNY6Ui6DnXenx2bG3tsEu4SqFemEmo4hk7vF0BQfcqBxTaE_q
 
         //create notification service
     }

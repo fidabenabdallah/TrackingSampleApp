@@ -22,10 +22,7 @@
         android:supportsRtl="true"
         android:theme="@android:style/Theme.DeviceDefault"
         tools:replace="android:theme" >
-        <activity
-            android:name=".MainActivity2"
-            android:exported="false"
-            android:theme="@android:style/Theme.DeviceDefault.NoActionBar" />
+
         <!--
                Set to true if your app is Standalone, that is, it does not require the handheld
                app to run.
@@ -34,6 +31,9 @@
             android:name="com.google.android.wearable.standalone"
             android:value="true" />
 
+        <activity
+            android:name=".MainActivity2"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity
             android:name=".PpgIrActivity"
             android:label="@string/title_activity_ppg_ir" />
@@ -54,7 +54,7 @@
             android:theme="@style/Theme.AppCompat" />
         <activity
             android:name=".sendmsg_activity"
-            android:theme="@style/Theme.AppCompat.NoActionBar" />
+            android:theme="@style/Theme.AppCompat" />
         <activity
             android:name=".HomePage_activity"
             android:theme="@style/Theme.AppCompat" />

@@ -4,6 +4,7 @@ import android.app.Notification;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.provider.Settings;
@@ -13,6 +14,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
 import androidx.core.app.NotificationCompat;
 import androidx.core.app.NotificationManagerCompat;
 
@@ -34,10 +36,8 @@ public class HomePage_activity extends AppCompatActivity {
         setContentView(R.layout.activity_home_page);
 
 
-
         // Initialize the TextView
         textView2 = findViewById(R.id.textView2);
-
 
 
         // Set the username to the TextView
@@ -48,8 +48,8 @@ public class HomePage_activity extends AppCompatActivity {
         senddata = findViewById(R.id.senddata);
 
         SharedPreferences sharedpreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
-        String username = sharedpreferences.getString("username","").toString();
-        Toast.makeText(getApplicationContext(),"Welcome " + username, Toast.LENGTH_SHORT ).show();
+        String username = sharedpreferences.getString("username", "").toString();
+        Toast.makeText(getApplicationContext(), "Welcome " + username, Toast.LENGTH_SHORT).show();
 
         textView2.setText("Welcome, " + username);
 
@@ -60,6 +60,17 @@ public class HomePage_activity extends AppCompatActivity {
                 editor.clear();
                 editor.apply();
                 startActivity(new Intent(HomePage_activity.this, sendmsg_activity.class));
+
+            }
+        });
+
+        urgent.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                SharedPreferences.Editor editor = sharedpreferences.edit();
+                editor.clear();
+                editor.apply();
+                startActivity(new Intent(HomePage_activity.this, MainActivity2.class));
 
             }
         });
@@ -105,6 +116,16 @@ public class HomePage_activity extends AppCompatActivity {
 
         // Use the notification manager to send the notification to the phone
         NotificationManagerCompat manager = NotificationManagerCompat.from(this);
+        if (ActivityCompat.checkSelfPermission(this, android.Manifest.permission.POST_NOTIFICATIONS) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return;
+        }
         manager.notify(1, notification);
 
         // Send a message to the phone to vibrate
