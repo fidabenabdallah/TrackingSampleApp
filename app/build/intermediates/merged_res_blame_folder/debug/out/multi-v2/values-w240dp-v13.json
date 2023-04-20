@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-w240dp-v13/values-w240dp-v13.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-41:/values-w240dp-v13/values-w240dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\8012bd3cc18fef1a3f649f14e594cb1e\\transformed\\jetified-wearable-2.9.0\\res\\values-w240dp-v13\\values.xml",

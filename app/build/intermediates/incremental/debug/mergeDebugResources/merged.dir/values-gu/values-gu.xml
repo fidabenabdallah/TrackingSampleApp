@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"સફળ રહ્યાં"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"છબી"</string>
     <string msgid="3209159573327985035" name="copy">"કૉપિ કરો"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"ક્લિપબોર્ડ પર લિંક કૉપિ કરી"</string>
     <string name="dismiss_overlay_button_label">છોડી દો</string>
     <string name="error_icon_content_description">ભૂલ</string>
     <string msgid="1234962710353108940" name="expand_button_title">"વિગતવાર"</string>
     <string name="exposed_dropdown_menu_content_description">ડ્રૉપડાઉન મેનૂ બતાવો</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"લિંક કૉપિ કરો"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"બ્રાઉઝરમાં ખોલો"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"લિંક શેર કરો"</string>
     <string name="generic_cancel">રદ કરો</string>
     <string name="generic_yes">હા</string>
     <string name="icon_content_description">સંવાદનું આઇકન</string>

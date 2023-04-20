@@ -121,10 +121,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Úspěch"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Obrázek"</string>
     <string msgid="3209159573327985035" name="copy">"Kopírovat"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Odkaz zkopírován do schránky"</string>
     <string name="dismiss_overlay_button_label">Ukončit</string>
     <string name="error_icon_content_description">Chyba</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Rozšířená nastavení"</string>
     <string name="exposed_dropdown_menu_content_description">Zobrazit rozbalovací nabídku</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopírovat odkaz"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Otevřít v prohlížeči"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Sdílet odkaz"</string>
     <string name="generic_cancel">Zrušit</string>
     <string name="generic_yes">Ano</string>
     <string name="icon_content_description">Ikona dialogového okna</string>

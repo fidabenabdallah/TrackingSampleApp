@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Êxito"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Imagem"</string>
     <string msgid="3209159573327985035" name="copy">"Copiar"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link copiado para a área de transferência."</string>
     <string name="dismiss_overlay_button_label">Sair</string>
     <string name="error_icon_content_description">Erro</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Avançadas"</string>
     <string name="exposed_dropdown_menu_content_description">Mostrar menu pendente</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Copiar link"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Abrir no navegador"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Partilhar link"</string>
     <string name="generic_cancel">Cancelar</string>
     <string name="generic_yes">Sim</string>
     <string name="icon_content_description">Ícone de caixa de diálogo</string>

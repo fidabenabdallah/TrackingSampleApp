@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Ийгилик"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Сүрөт"</string>
     <string msgid="3209159573327985035" name="copy">"Көчүрүү"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Шилтеме буферге көчүрүлдү"</string>
     <string name="dismiss_overlay_button_label">Чыгуу</string>
     <string name="error_icon_content_description">Ката</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Өркүндөтүлгөн"</string>
     <string name="exposed_dropdown_menu_content_description">Түрүлмө менюну көрсөтүү</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Шилтемени көчүрүү"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Серепчиден ачуу"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Шилтемени бөлүшүү"</string>
     <string name="generic_cancel">Жок</string>
     <string name="generic_yes">Ооба</string>
     <string name="icon_content_description">Диалог сүрөтчөсү</string>

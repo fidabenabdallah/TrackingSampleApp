@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-sw180dp-notround-v23/values-sw180dp-notround-v23.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-41:/values-sw180dp-notround-v23/values-sw180dp-notround-v23.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\99a67f1e4d1c9d82af179429b07dacb5\\transformed\\wear-1.2.0\\res\\values-sw180dp-notround-v23\\values-sw180dp-notround-v23.xml",

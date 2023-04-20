@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Επιτυχία"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Εικόνα"</string>
     <string msgid="3209159573327985035" name="copy">"Αντιγραφή"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Ο σύνδεσμος αντιγράφηκε στο πρόχειρο"</string>
     <string name="dismiss_overlay_button_label">Τερματισμός</string>
     <string name="error_icon_content_description">Σφάλμα</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Σύνθετες"</string>
     <string name="exposed_dropdown_menu_content_description">Εμφάνιση αναπτυσσόμενου μενού</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Αντιγραφή συνδέσμου"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Άνοιγμα σε πρόγραμμα περιήγησης"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Κοινοποίηση συνδέσμου"</string>
     <string name="generic_cancel">Ακύρωση</string>
     <string name="generic_yes">Ναι</string>
     <string name="icon_content_description">Εικονίδιο παραθύρου διαλόγου</string>

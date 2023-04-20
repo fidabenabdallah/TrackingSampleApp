@@ -1,686 +1,686 @@
 [
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_ppg_ir.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_ir.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_heart_rate.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_heart_rate.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_choix.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_choix.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_choix.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_choix.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_top_banner_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/top_banner_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/voice_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_ecg.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ecg.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_home_page.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_home_page.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_custom_button.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/custom_button.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_white_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/white_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_top_banner_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/top_banner_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_settings.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_settings.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_ppg_green.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_green.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/voice_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_home.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_home.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_button_enabled.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/button_enabled.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_btn_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/btn_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/mipmap-mdpi/ic_launcher.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_register.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_register.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_ppg_ir.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_ir.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_sendmsg.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_sendmsg.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_edittext_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/edittext_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_banner_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/banner_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/ic_launcher_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_button_disabled.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/button_disabled.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_custom_button.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/custom_button.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_button_pressed.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/button_pressed.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_white_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/white_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_custom_row.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/custom_row.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/voice_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/voice_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_main2.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_main2.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_sendmsg.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_sendmsg.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_button_disabled.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/button_disabled.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_edittext_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/edittext_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_ecg.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ecg.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_search_edittext.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/search_edittext.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_name.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/name.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_button_pressed.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/button_pressed.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_logo1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/logo1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_button_enabled.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/button_enabled.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_heart_rate.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_heart_rate.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_login.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_login.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_search_icon.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/search_icon.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_6.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_6.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_ppg_green.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_green.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_video_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/video_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_3.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_3.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_logo.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/logo.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_home_page.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_home_page.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_login.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_login.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_register.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_register.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_notification.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/notification.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_ppg_red.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_red.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_4.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_4.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_top_background1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/top_background1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_main.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_main.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_google.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/google.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_settings.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_settings.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_search_icon.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/search_icon.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_btn_arraw1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/btn_arraw1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_banner_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/banner_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_logo1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/logo1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/voice_call.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_4.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_4.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_facebook.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/facebook.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_8.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_8.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_5.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_5.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_video_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/video_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_6.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_6.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_main.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_main.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_top_background1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/top_background1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable_btn_background.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable/btn_background.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_top_background2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/top_background2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_name.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/name.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable_search_edittext.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable/search_edittext.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_ic_1.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/ic_1.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_notification.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/notification.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxxhdpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxxhdpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_ppg_red.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_red.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_8.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_8.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_voice_call.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/voice_call.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_ic_3.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/ic_3.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-hdpi_profile.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-hdpi/profile.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-ldpi_google.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-ldpi/google.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_top_background2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/top_background2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_activity_main2.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_main2.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/layout_custom_row.xml.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/custom_row.xml"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xhdpi_profile.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xhdpi/profile.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-ldpi_password.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-ldpi/password.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_facebook.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/facebook.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-mdpi_logo.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-mdpi/logo.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxxhdpi_ic_7.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxxhdpi/ic_7.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_ic_2.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/ic_2.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_email.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/email.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_btn_arraw1.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/btn_arraw1.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/layout_activity_home.xml.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_home.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_top_background.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/top_background.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_top_background.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/top_background.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-xxhdpi_ic_5.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-xxhdpi/ic_5.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_ic_7.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/ic_7.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-hdpi_password.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-hdpi/password.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xhdpi_email.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xhdpi/email.png"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-merged_res-41:/drawable-mdpi_ic_2.png.flat",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/drawable-mdpi/ic_2.png"
+        "merged": "com.samsung.android.trackingsampleapp-merged_res-43:/drawable-xxhdpi_voice_call.png.flat",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/drawable-xxhdpi/voice_call.png"
     }
 ]

@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"成功"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"圖片"</string>
     <string msgid="3209159573327985035" name="copy">"複製"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"已將連結複製到剪貼簿"</string>
     <string name="dismiss_overlay_button_label">結束</string>
     <string name="error_icon_content_description">錯誤</string>
     <string msgid="1234962710353108940" name="expand_button_title">"進階"</string>
     <string name="exposed_dropdown_menu_content_description">顯示下拉式選單</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"複製連結"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"在瀏覽器中開啟"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"分享連結"</string>
     <string name="generic_cancel">取消</string>
     <string name="generic_yes">是</string>
     <string name="icon_content_description">對話方塊圖示</string>

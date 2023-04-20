@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Berjaya"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Imej"</string>
     <string msgid="3209159573327985035" name="copy">"Salin"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Pautan disalin ke papan keratan"</string>
     <string name="dismiss_overlay_button_label">Keluar</string>
     <string name="error_icon_content_description">Ralat</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Terperinci"</string>
     <string name="exposed_dropdown_menu_content_description">Tunjukkan menu lungsur</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Salin pautan"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Buka dalam penyemak imbas"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Kongsi pautan"</string>
     <string name="generic_cancel">Batal</string>
     <string name="generic_yes">Ya</string>
     <string name="icon_content_description">Ikon Dialog</string>

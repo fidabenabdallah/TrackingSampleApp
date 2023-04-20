@@ -1,30 +1,30 @@
 [
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_heart_rate.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_heart_rate.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_settings.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_settings.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_choix.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_choix.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_choix.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_choix.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_ppg_red.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_red.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_heart_rate.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_heart_rate.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_ppg_green.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_green.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_ppg_green.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_green.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_settings.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_settings.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_ppg_ir.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_ir.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_ppg_ir.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ppg_ir.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_ecg.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ecg.xml"
     },
     {
-        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-40:/layout/activity_ecg.xml",
-        "source": "com.samsung.android.trackingsampleapp-main-43:/layout/activity_ecg.xml"
+        "merged": "com.samsung.android.trackingsampleapp-mergeDebugResources-42:/layout/activity_ppg_red.xml",
+        "source": "com.samsung.android.trackingsampleapp-main-45:/layout/activity_ppg_red.xml"
     }
 ]

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-round-v23/values-round-v23.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-41:/values-round-v23/values-round-v23.xml",
             "map": [
                 {
                     "source": "D:\\sample-code\\sample-code\\TrackingSampleApp\\app\\src\\main\\res\\values-round\\dimens.xml",

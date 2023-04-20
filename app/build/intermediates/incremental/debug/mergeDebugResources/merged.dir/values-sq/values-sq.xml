@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Me sukses"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Imazh"</string>
     <string msgid="3209159573327985035" name="copy">"Kopjo"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Lidhja u kopjua në kujtesën e fragmenteve"</string>
     <string name="dismiss_overlay_button_label">Dil</string>
     <string name="error_icon_content_description">Gabim</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Të përparuara"</string>
     <string name="exposed_dropdown_menu_content_description">Shfaq menynë me lëshim poshtë</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopjo lidhjen"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Hape në shfletues"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Ndaj lidhjen"</string>
     <string name="generic_cancel">Anulo</string>
     <string name="generic_yes">Po</string>
     <string name="icon_content_description">Ikona e dialogut</string>

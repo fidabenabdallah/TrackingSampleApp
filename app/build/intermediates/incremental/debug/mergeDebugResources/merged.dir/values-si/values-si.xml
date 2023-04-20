@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"සාර්ථකයි"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"රූපය"</string>
     <string msgid="3209159573327985035" name="copy">"පිටපත් කරන්න"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"සබැඳිය පසුරු පුවරුවට පිටපත් කෙරිණි"</string>
     <string name="dismiss_overlay_button_label">හැර යන්න</string>
     <string name="error_icon_content_description">දෝෂය</string>
     <string msgid="1234962710353108940" name="expand_button_title">"උසස්"</string>
     <string name="exposed_dropdown_menu_content_description">පතන මෙනුව පෙන්වන්න</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"සබැඳිය පිටපත් කරන්න"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"බ්‍රව්සරයේ විවෘත කරන්න"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"සබැඳිය බෙදා ගන්න"</string>
     <string name="generic_cancel">අවලංගු කරන්න</string>
     <string name="generic_yes">ඔව්</string>
     <string name="icon_content_description">සංවාද නිරූපකය</string>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">558197863976-mo9r1l08iuicf7toknn75h730d2d72vc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">558197863976</string>
+    <string name="google_api_key" translatable="false">AIzaSyDlmsoFw_iBuYfSuM-_jqRKljdBcN0lqX8</string>
+    <string name="google_app_id" translatable="false">1:558197863976:android:ffb6de9b9fbb9a6818e71d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlmsoFw_iBuYfSuM-_jqRKljdBcN0lqX8</string>
+    <string name="google_storage_bucket" translatable="false">pfasmartwatch.appspot.com</string>
+    <string name="project_id" translatable="false">pfasmartwatch</string>
+</resources>

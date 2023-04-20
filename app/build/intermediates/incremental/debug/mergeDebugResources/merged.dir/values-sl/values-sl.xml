@@ -121,10 +121,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Uspelo je."</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Slika"</string>
     <string msgid="3209159573327985035" name="copy">"Kopiraj"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Povezava je kopirana v odložišče"</string>
     <string name="dismiss_overlay_button_label">Zapri</string>
     <string name="error_icon_content_description">Napaka</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Dodatno"</string>
     <string name="exposed_dropdown_menu_content_description">Prikaz spustnega menija</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopiraj povezavo"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Odpri v brskalniku"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Deli povezavo"</string>
     <string name="generic_cancel">Prekliči</string>
     <string name="generic_yes">Da</string>
     <string name="icon_content_description">Ikona pogovornega okna</string>

@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Başarılı"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Resim"</string>
     <string msgid="3209159573327985035" name="copy">"Kopyala"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Bağlantı panoya kopyalandı"</string>
     <string name="dismiss_overlay_button_label">Çık</string>
     <string name="error_icon_content_description">Hata</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Gelişmiş"</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Bağlantıyı kopyala"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Tarayıcıda aç"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bağlantıyı paylaş"</string>
     <string name="generic_cancel">İptal</string>
     <string name="generic_yes">Evet</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>

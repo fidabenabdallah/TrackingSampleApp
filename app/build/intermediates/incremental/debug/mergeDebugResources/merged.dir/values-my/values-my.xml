@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"အောင်မြင်ပါသည်"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"ပုံ"</string>
     <string msgid="3209159573327985035" name="copy">"မိတ္တူကူးရန်"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"လင့်ခ်ကို ကလစ်ဘုတ်သို့ ကူးပြီးပါပြီ"</string>
     <string name="dismiss_overlay_button_label">ထွက်ရန်</string>
     <string name="error_icon_content_description">အမှား</string>
     <string msgid="1234962710353108940" name="expand_button_title">"အဆင့်မြင့်"</string>
     <string name="exposed_dropdown_menu_content_description">ဆွဲချမီနူးကို ပြရန်</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"လင့်ခ်ကို ကူးယူရန်"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ဘရောင်ဇာတွင် ဖွင့်ရန်"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"လင့်ခ်ကို မျှဝေရန်"</string>
     <string name="generic_cancel">မလုပ်တော့</string>
     <string name="generic_yes">Yes</string>
     <string name="icon_content_description">ဒိုင်ယာလော့ခ် သင်္ကေတ</string>

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-39:/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "outputFile": "com.samsung.android.trackingsampleapp-mergeDebugResources-41:/values-sw360dp-v13/values-sw360dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\hp\\.gradle\\caches\\transforms-3\\c646a5160e0ec1027278af5408f92d29\\transformed\\preference-1.1.1\\res\\values-sw360dp-v13\\values-sw360dp-v13.xml",

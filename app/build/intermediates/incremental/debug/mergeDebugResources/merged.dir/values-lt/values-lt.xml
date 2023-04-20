@@ -121,10 +121,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Pavyko"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Vaizdas"</string>
     <string msgid="3209159573327985035" name="copy">"Kopijuoti"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Nuoroda nukopijuota į iškarpinę"</string>
     <string name="dismiss_overlay_button_label">Išeiti</string>
     <string name="error_icon_content_description">Klaida</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Išplėstinė"</string>
     <string name="exposed_dropdown_menu_content_description">Rodyti išskleidžiamąjį meniu</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Kopijuoti nuorodą"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Atidaryti naršyklėje"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Bendrinti nuorodą"</string>
     <string name="generic_cancel">Atšaukti</string>
     <string name="generic_yes">Taip</string>
     <string name="icon_content_description">Dialogo lango piktograma</string>

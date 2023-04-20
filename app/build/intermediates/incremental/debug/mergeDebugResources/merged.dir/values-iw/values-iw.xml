@@ -121,10 +121,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ההפעלה הצליחה"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"תמונה"</string>
     <string msgid="3209159573327985035" name="copy">"העתקה"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"הקישור הועתק ללוח"</string>
     <string name="dismiss_overlay_button_label">יציאה</string>
     <string name="error_icon_content_description">שגיאה</string>
     <string msgid="1234962710353108940" name="expand_button_title">"מתקדם"</string>
     <string name="exposed_dropdown_menu_content_description">הצגת התפריט הנפתח</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"העתקת הקישור"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"פתיחה בדפדפן"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"לשיתוף הקישור"</string>
     <string name="generic_cancel">ביטול</string>
     <string name="generic_yes">כן</string>
     <string name="icon_content_description">סמל לתיבת דו-שיח</string>

@@ -107,10 +107,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"ಯಶಸ್ವಿಯಾಗಿದೆ"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"ಚಿತ್ರ"</string>
     <string msgid="3209159573327985035" name="copy">"ನಕಲಿಸಿ"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"ಕ್ಲಿಪ್‌ಬೋರ್ಡ್‌ಗೆ ಲಿಂಕ್ ಅನ್ನು ನಕಲಿಸಲಾಗಿದೆ"</string>
     <string name="dismiss_overlay_button_label">ತ್ಯಜಿಸಿ</string>
     <string name="error_icon_content_description">ದೋಷ</string>
     <string msgid="1234962710353108940" name="expand_button_title">"ಸುಧಾರಿತ"</string>
     <string name="exposed_dropdown_menu_content_description">ಡ್ರಾಪ್‌ಡೌನ್ ಮೆನು ತೋರಿಸಿ</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"ಲಿಂಕ್ ನಕಲಿಸಿ"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"ಬ್ರೌಸರ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"ಲಿಂಕ್ ಹಂಚಿರಿ"</string>
     <string name="generic_cancel">ರದ್ದುಮಾಡಿ</string>
     <string name="generic_yes">ಹೌದು</string>
     <string name="icon_content_description">ಡೈಲಾಗ್ ಐಕಾನ್</string>

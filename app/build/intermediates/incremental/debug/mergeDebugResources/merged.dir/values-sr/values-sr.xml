@@ -114,10 +114,14 @@
     <string msgid="2936753235333429892" name="confirmation_overlay_a11y_description_success">"Успело је"</string>
     <string msgid="4327971892987955014" name="confirmation_overlay_a11y_type_image">"Слика"</string>
     <string msgid="3209159573327985035" name="copy">"Копирај"</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Линк је копиран у привремену меморију"</string>
     <string name="dismiss_overlay_button_label">Затвори</string>
     <string name="error_icon_content_description">Грешка</string>
     <string msgid="1234962710353108940" name="expand_button_title">"Напредно"</string>
     <string name="exposed_dropdown_menu_content_description">Прикажи падајући мени</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Копирај линк"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Отвори у прегледачу"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Дели линк"</string>
     <string name="generic_cancel">Откажи</string>
     <string name="generic_yes">Да</string>
     <string name="icon_content_description">Икона дијалога</string>

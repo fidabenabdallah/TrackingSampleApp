@@ -1337,6 +1337,10 @@ color bright_foreground_inverse_material_dark
 color bright_foreground_inverse_material_light
 color bright_foreground_material_dark
 color bright_foreground_material_light
+color browser_actions_bg_grey
+color browser_actions_divider_color
+color browser_actions_text_color
+color browser_actions_title_color
 color btn_colored_background_material
 color button_color_orange
 color button_icon_color
@@ -1670,6 +1674,8 @@ dimen blank_config_dash_gap
 dimen blank_config_dash_width
 dimen box_inset_capability_padding
 dimen box_inset_layout_padding
+dimen browser_actions_context_menu_max_width
+dimen browser_actions_context_menu_min_padding
 dimen button_corner_radius
 dimen button_height
 dimen button_padding
@@ -2504,6 +2510,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id browser_actions_header_text
+id browser_actions_menu_item_icon
+id browser_actions_menu_item_text
+id browser_actions_menu_items
+id browser_actions_menu_view
 id butt
 id button7
 id buttonPanel
@@ -3123,6 +3134,8 @@ layout activity_register
 layout activity_sendmsg
 layout activity_settings
 layout alert_dialog_wearable
+layout browser_actions_context_menu_page
+layout browser_actions_context_menu_row
 layout custom_dialog
 layout custom_row
 layout decomposition_config_activity
@@ -3386,7 +3399,9 @@ string confirmation_overlay_a11y_description_phone
 string confirmation_overlay_a11y_description_success
 string confirmation_overlay_a11y_type_image
 string copy
+string copy_toast_msg
 string default_up
+string default_web_client_id
 string dismiss_overlay_button_label
 string ecg1
 string ecg_green
@@ -3399,10 +3414,18 @@ string expand_button_title
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string fallback_menu_item_copy_link
+string fallback_menu_item_open_in_browser
+string fallback_menu_item_share_link
 string fcm_fallback_notification_channel_label
 string flush
+string gcm_defaultSenderId
 string generic_cancel
 string generic_yes
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
 string hello_world
 string hide_bottom_view_on_scroll_behavior
 string hr_flag
@@ -3482,6 +3505,7 @@ string ppg_red_header
 string preference_copied
 string profile_1
 string profile_2
+string project_id
 string save
 string search_menu_title
 string settings
@@ -4518,6 +4542,7 @@ styleable WearableNavigationDrawer navigation_style
 styleable WearableNavigationDrawerView navigationStyle
 styleable WearableRecyclerView bezelWidth bezel_width circularScrollingGestureEnabled circular_scrolling_gesture_enabled scrollDegreesPerScreen scroll_degrees_per_screen
 styleable include constraintSet
+xml image_share_filepaths
 xml standalone_badge
 xml standalone_badge_gravity_bottom_end
 xml standalone_badge_gravity_bottom_start
