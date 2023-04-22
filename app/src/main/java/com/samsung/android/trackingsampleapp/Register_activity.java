@@ -7,14 +7,20 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 
 
 public class Register_activity extends AppCompatActivity {
 
 
-    EditText edUsername, edPassword, edBlutooth;
+    EditText edUsername, edPassword, edphone;
 
     private Button registerButton;
 
@@ -24,7 +30,7 @@ public class Register_activity extends AppCompatActivity {
         getSupportActionBar().hide();
         setContentView(R.layout.activity_register);
 
-        edBlutooth = findViewById(R.id.bltEditRegBlutooth);
+        edphone = findViewById(R.id.bltEditRegBlutooth);
         edUsername = findViewById(R.id.EditRegUsername);
         edPassword = findViewById(R.id.passwordEditText);
 
@@ -39,15 +45,21 @@ public class Register_activity extends AppCompatActivity {
         });*/
 
         registerButton.setOnClickListener(new View.OnClickListener() {
+
+            //create object of databaseReference class to access firebase's realtime database
+
+            DatabaseReference databaseReference = FirebaseDatabase.getInstance().getReferenceFromUrl("https://pfasmartwatch-default-rtdb.firebaseio.com/");
             @Override
             public void onClick(View view) {
-                String username = edUsername.getText().toString();
-                String password = edPassword.getText().toString();
-                String blutooth = edBlutooth.getText().toString();
+                final String username = edUsername.getText().toString();
+                final String password = edPassword.getText().toString();
+                final String phone = edphone.getText().toString();
 
-                PaUserDB db = new PaUserDB(getApplicationContext(), "SAYFR", null, 1);
 
-                if (username.length() == 0 || password.length() == 0 || blutooth.length() == 0 ) {
+
+                //PaUserDB db = new PaUserDB(getApplicationContext(), "SAYFR", null, 1);
+
+                if (username.length() == 0 || password.length() == 0 || phone.length() == 0  ) {
                     Toast.makeText(getApplicationContext(), "Please fill all details", Toast.LENGTH_SHORT).show();
 
 
@@ -57,9 +69,35 @@ public class Register_activity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "password should be more than 8 characters and contains digits charaster and special char ", Toast.LENGTH_SHORT).show();
 
                 } else {
-                    db.register(blutooth, username, password);
+
+                    databaseReference.child("Patient_users").addListenerForSingleValueEvent(new ValueEventListener() {
+                        @Override
+                        public void onDataChange(@NonNull DataSnapshot snapshot) {
+                            //check if phone is not registered before
+                            if(snapshot.hasChild(phone)){
+                                Toast.makeText(Register_activity.this, "Phone is already registered", Toast.LENGTH_SHORT).show();
+                            }
+                            else{
+                                //sending data to firebase
+                                //the phone number is a unique identity
+                                DatabaseReference newPatientRef = databaseReference.child("Patient_users").child(phone);
+                                newPatientRef.child("username").setValue(username);
+                                newPatientRef.child("password").setValue(password);
+
+                                Toast.makeText(Register_activity.this, "Patient registered successfully", Toast.LENGTH_SHORT).show();
+                                finish();
+                            }
+                        }
+
+                        @Override
+                        public void onCancelled(@NonNull DatabaseError error) {
+
+                        }
+                    });
+
+                    /*db.register(phone, username, password);
                     Toast.makeText(getApplicationContext(), "Record Inserted", Toast.LENGTH_SHORT).show();
-                    startActivity(new Intent(Register_activity.this, login_activity.class));
+                    startActivity(new Intent(Register_activity.this, login_activity.class));*/
 
 
                 }
