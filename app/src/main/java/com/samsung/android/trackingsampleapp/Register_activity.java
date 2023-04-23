@@ -86,6 +86,8 @@ public class Register_activity extends AppCompatActivity {
 
                                 Toast.makeText(Register_activity.this, "Patient registered successfully", Toast.LENGTH_SHORT).show();
                                 finish();
+
+
                             }
                         }
 

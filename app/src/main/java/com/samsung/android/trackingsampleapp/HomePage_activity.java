@@ -29,6 +29,8 @@ public class HomePage_activity extends AppCompatActivity {
     private Button senddata;
     private TextView textView2;
 
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,6 +41,7 @@ public class HomePage_activity extends AppCompatActivity {
         // Initialize the TextView
         textView2 = findViewById(R.id.textView2);
 
+        showUserData();
 
         // Set the username to the TextView
 
@@ -47,18 +50,20 @@ public class HomePage_activity extends AppCompatActivity {
         sendmessage = findViewById(R.id.sendmessage);
         senddata = findViewById(R.id.senddata);
 
-        SharedPreferences sharedpreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
+
+
+        /*SharedPreferences sharedpreferences = getSharedPreferences("shared_prefs", Context.MODE_PRIVATE);
         String username = sharedpreferences.getString("username", "").toString();
         Toast.makeText(getApplicationContext(), "Welcome " + username, Toast.LENGTH_SHORT).show();
 
-        textView2.setText("Welcome, " + username);
+        textView2.setText("Welcome, " + username);*/
 
         sendmessage.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences.Editor editor = sharedpreferences.edit();
+                /*SharedPreferences.Editor editor = sharedpreferences.edit();
                 editor.clear();
-                editor.apply();
+                editor.apply();*/
                 startActivity(new Intent(HomePage_activity.this, sendmsg_activity.class));
 
             }
@@ -67,9 +72,9 @@ public class HomePage_activity extends AppCompatActivity {
         urgent.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences.Editor editor = sharedpreferences.edit();
+                /*SharedPreferences.Editor editor = sharedpreferences.edit();
                 editor.clear();
-                editor.apply();
+                editor.apply();*/
                 startActivity(new Intent(HomePage_activity.this, MainActivity2.class));
 
             }
@@ -79,15 +84,21 @@ public class HomePage_activity extends AppCompatActivity {
         senddata.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                SharedPreferences.Editor editor = sharedpreferences.edit();
+                /*SharedPreferences.Editor editor = sharedpreferences.edit();
                 editor.clear();
-                editor.apply();
+                editor.apply();*/
                 startActivity(new Intent(HomePage_activity.this, choiceActivity.class));
 
             }
         });
 
     }
+    public void showUserData(){
+        Intent intent = getIntent();
+        String nameUser = intent.getStringExtra("username");
+        textView2.setText(nameUser);
+    }
+
 
     public void urgent(View view) {
         // Create a notification builder
