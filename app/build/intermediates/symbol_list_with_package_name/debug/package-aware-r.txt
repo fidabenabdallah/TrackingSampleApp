@@ -1342,7 +1342,6 @@ color browser_actions_divider_color
 color browser_actions_text_color
 color browser_actions_title_color
 color btn_colored_background_material
-color button_color_orange
 color button_icon_color
 color button_material_dark
 color button_material_light
@@ -1436,9 +1435,9 @@ color dismiss_close_pressed
 color dismiss_overlay_bg
 color error_color_material_dark
 color error_color_material_light
+color fida
 color foreground_material_dark
 color foreground_material_light
-color gray
 color green
 color grey
 color highlighted_text_material_dark
@@ -1544,7 +1543,11 @@ color primary_text_default_material_light
 color primary_text_disabled_material_dark
 color primary_text_disabled_material_light
 color primary_text_light
+color purple_200
+color purple_500
+color purple_700
 color radiobutton_themeable_attribute_color
+color rania
 color red
 color red_a200
 color ripple_material_dark
@@ -1561,6 +1564,8 @@ color switch_thumb_material_dark
 color switch_thumb_material_light
 color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
+color teal_200
+color teal_700
 color test_mtrl_calendar_day
 color test_mtrl_calendar_day_selected
 color tooltip_background_dark
@@ -4077,6 +4082,7 @@ style Theme_MaterialComponents_Light_NoActionBar
 style Theme_MaterialComponents_Light_NoActionBar_Bridge
 style Theme_MaterialComponents_NoActionBar
 style Theme_MaterialComponents_NoActionBar_Bridge
+style Theme_Ui
 style Theme_WearDiag
 style Theme_Wearable
 style Theme_Wearable_Modal

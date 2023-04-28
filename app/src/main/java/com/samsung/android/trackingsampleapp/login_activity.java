@@ -51,7 +51,9 @@ public class login_activity extends AppCompatActivity {
                 if (!valideUsername() | !validePassword()) {
 
                 } else {
-                    checkUser();
+                    Intent intent = new Intent(login_activity.this, HomePage_activity.class);
+                    startActivity(intent);
+                   // checkUser();
                 }
             }
                /* String username = usernameEditText.getText().toString().trim();
@@ -106,7 +108,7 @@ public class login_activity extends AppCompatActivity {
                     usernameEditText.setError(null);
                     String passwordFromDB = snapshot.child(patUsername).child("password").getValue(String.class);
 
-                    if (!Objects.equals(passwordFromDB, patPassword)) {
+                    if (passwordFromDB.equals(patPassword)) {
                         usernameEditText.setError(null);
                         Intent intent = new Intent(login_activity.this, HomePage_activity.class);
                         startActivity(intent);
